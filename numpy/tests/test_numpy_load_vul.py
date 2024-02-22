@@ -1,6 +1,6 @@
 import numpy
-from numpy import __version__
-print __version__
+#from numpy import __version__
+#print __version__
 import os
 import  pickle
 
